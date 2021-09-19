@@ -1,4 +1,4 @@
-## Testando os comandos do git bash para o repositório remoto :happy: :tada:
+## Testando os comandos do git bash para o repositório remoto 😂 :tada:
 
 
 
